@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+requests
+matplotlib
+tensorflow-cpu
+scikit-learn
+altair
+folium
+streamlit-folium
+google-generativeai
+protobuf
+pip
+pygments
+mdurl
+markdown-it-py
+rich
