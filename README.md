@@ -321,13 +321,7 @@ python src/dashboard.py
 | 4 | Q1 2026 | Integrate satellite imagery analysis |
 | 5 | Q2 2026 | Expand to tributary rivers in the Ganga basin |
 
----
 
-## 🤝 Contributing
-
-We welcome contributions from data scientists, environmental engineers, and domain experts! Please check our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
 
 ## 📄 License
 
